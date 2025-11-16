@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Classroom Assistant",
+  "description": "An interactive web application for teachers to create assignments and quizzes with AI assistance, and for students to complete and submit them. Features AI-powered quiz generation and image-to-text conversion for submissions, similar to platforms like Azota.",
+  "requestFramePermissions": []
+}
